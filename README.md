@@ -1,0 +1,2 @@
+This project is a Payment Reminder API built with Spring Boot that helps users create reminders for unpaid debts. Users can specify an email and an amount of money, and the API will automatically send professional reminder emails to the debtor. The frequency of reminders increases over time, ensuring timely repayment without the need for awkward or uncomfortable personal messages. This solution streamlines the process of debt collection while maintaining professionalism and preserving relationships.
+< in progress >
